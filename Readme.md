@@ -1,6 +1,6 @@
 # Homework Assignment 2
 
-**Due: after Lecture 11 before 10PM**
+**Due: As listed on the course schedule**
 
 *Note: Homework Assignment 2 should be completed individually.*
 

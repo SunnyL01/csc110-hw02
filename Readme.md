@@ -196,11 +196,4 @@ The program:
 
 
 ## Submitting
-To submit, remember that you need to:
-
-  * Stage all changes for tracking (that is, press the  + button next to the file where you've made changes), then
-  * add a commit message that indicates what you've done so far (e.g. "finished part 1", or "completed the hw")
-  * then press the green button to commit
-  * After you've done all the commits you need to do, you can press the green button to sync.
-
-  Note that you can commit and push every time, which is OK.
+Submit your assignment on Gradescope. A recap of how can be found in the Lecture05 slides. 

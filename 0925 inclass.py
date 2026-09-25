@@ -1,5 +1,0 @@
-n = int(input("input an int:"))
-print(f"Twice your first number is {2*n}")
-m = float(input("input a float:"))
-print("The remainder of dividing m/n")
-print(f"(your second number by the first) is {m%n})

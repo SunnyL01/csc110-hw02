@@ -1,3 +1,5 @@
+# Name: Sunny Li
+
 # Task 1.1:
 #  Complete the function "read_two_ints" below:
 def read_two_ints():
@@ -19,7 +21,6 @@ def read_two_ints():
     # Return both integers at the same time (no parentheses)
     return x, y
     
-
 
 # Task 2.1:
 #  Complete the function "compute_multadd" below:
@@ -62,27 +63,27 @@ def main ():
     #  Add one line below to call read_two_ints (note that it returns two values)
     #  the call should provide no arguments
     #  store the returned values into two variables: x and y
-    x,y = read_two_ints()
-    xy_multadd = compute_multadd(x, y)
-    print_fancy(x,y,xy_multadd)
     
-
-    # TODO: add your call instead of this line
-
+    """Run the multadd program."""
+    # Task 1.2: Get two integers from the user
+    x, y = read_two_ints()
+    
     # Task 2.2:
     #  Add one line below to call multadd (note that it returns one value)
     #  the call should provide the arguments x, and y you obtained above;
     #  store the returned value in a variable called xy_multadd
-
-    # TODO: add your call instead of this line
+     
+    # Task 2.2: Compute the multadd operation
+    xy_multadd = compute_multadd(x, y)
 
     # Task 3.2:
     #  Complete The line below to call print_fancy
     #  the call should provide the arguments x, y, and xy_multadd you obtained above;
-
-    # TODO: add your call instead of this line
-
-
+    
+    # Task 3.2: Print the formatted results
+    print_fancy(x, y, xy_multadd)
+    
+    
     # Do not modify this final print statement
     print("The End")
 
